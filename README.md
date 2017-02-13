@@ -1,6 +1,6 @@
 # Projects included in this Repository 
 
-- GedCom Parser
+- GedCom Analysis with Agile
 - Shortest Path with C++
 - Tic Tac Toe 
 - Virtual Advisor
